@@ -43,11 +43,12 @@ h1 {
 #survey-form {
     width: 60%;
     margin: 0 auto;
-    background-color: rgba(3, 3, 17, 0.5);
+    background-color: rgba(238, 238, 248, 0.5);
     padding: 2em;
     border-radius: 0.5em;
     max-width: 800px;
     min-width: 200px;
+    
 }
 
 fieldset {
@@ -69,7 +70,7 @@ input, select, textarea {
     font-size: 1.2em;
     font-family: 'Italianno', cursive;
     color: rgb(244, 244, 244);
-    background-color: rgba(40, 45, 133, 0.5);
+    background-color: rgba(243, 228, 19, 0.5);
 }
 
 label {
@@ -96,7 +97,7 @@ label {
     margin: auto;
     padding: auto;
     color : rgb(255, 255, 255);
-    background-color: rgb(228, 128, 22);
+    background-color: rgb(19, 255, 11);
     border-color:  rgb(0, 0, 0);
     font-weight: bolder;
    }
